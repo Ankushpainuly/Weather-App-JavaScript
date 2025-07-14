@@ -30,6 +30,7 @@ A simple weather app built with **HTML**, **CSS**, and **JavaScript**. It shows 
 ![App Screenshot](assets/Screenshot.png)
 
 🙌 Credits
-Love Babbar
+- 🎓 [Love Babbar](https://www.youtube.com/@LoveBabbar) 
+- 🌐 [OpenWeatherMap](https://openweathermap.org/) 
 
-OpenWeatherMap
+
